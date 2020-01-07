@@ -1,0 +1,6 @@
+
+----------------------
+Le joueur a gagné.
+Nombre de tour :  3043
+Score Joueur :    1044
+Score Ordi :      1002

@@ -1,0 +1,6 @@
+
+----------------------
+L'Ordi a gagné.
+Nombre de tour :  2
+Score Joueur :    0
+Score Ordi :      2

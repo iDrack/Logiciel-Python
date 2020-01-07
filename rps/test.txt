@@ -1,0 +1,4 @@
+Le joueur2 a gagné.
+Nombre de tour :  27
+Score Joueur1 :    7
+Score Joueur2 :      12

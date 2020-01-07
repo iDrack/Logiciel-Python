@@ -1,0 +1,6 @@
+
+----------------------
+L'Ordi a gagné.
+Nombre de tour :  899072
+Score Joueur :    299369
+Score Ordi :      300000
